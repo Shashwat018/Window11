@@ -1,0 +1,3 @@
+It is just made for using Javscript as a Real-Life program.
+It is WINDOW-11 desktop with start button on bottom taskbar
+help to visualise the basic mix-up of HTML,CSS,JavaScript...
